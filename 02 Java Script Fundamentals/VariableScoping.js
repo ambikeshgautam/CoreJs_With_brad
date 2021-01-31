@@ -25,4 +25,4 @@ for( var a = 0; a < 10; a++) {
   console.log(`Loop : ${a}`);
 }
  console.log('Global Scope :' ,a ,b , c);
-// let and const level scop and var have function level scop
+// let and const balock level of scop and var have function level scop
